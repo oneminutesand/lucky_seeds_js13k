@@ -1,2 +1,3 @@
-lucky_seeds_js13k
-=================
+Lucky Seeds
+
+Created for js13kgames 2013.
